@@ -1,0 +1,13 @@
+---
+title: "Analysis of DHS data"
+author: "Jessica Zafra"
+date: "2024-07-23"
+categories: [code, analysis, r]
+image: "image.jpg"
+---
+
+This is a project using X. You can find the project \[here\](){target="\_blank"}
+
+```{r}
+1 + 1
+```

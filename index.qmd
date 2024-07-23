@@ -1,0 +1,17 @@
+---
+title: "Jessica Zafra"
+image: prof-pic.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jessica-zafra/
+    - icon: github
+      text: Github
+      href: https://github.com/Jzafrat
+---
+
+Jessica Zafra-Tanaka is an interdisciplinary researcher specializing in non-communicable diseases, mixed-methods studies, and patient engagement. She is currently affiliated with the CRONICAS Center of Excellence in Chronic Diseases at Universidad Peruana Cayetano Heredia and pursuing a PhD at the University Hospitals of Geneva. 
+
+Her work involves managing research projects, developing clinical guidelines, and engaging in public health initiatives. With a strong background in epidemiology and a passion for improving healthcare systems, Jessica aims to enhance care for chronic conditions through innovative and patient-centered research approaches.
